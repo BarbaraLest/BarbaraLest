@@ -14,4 +14,4 @@ Where to find me:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/BarbaraLest)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/barbara-rodrigues-1231b2156//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/https://www.instagram.com/barbara__rs//)  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarbaraLest&show_icons=true&theme=jolly) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraLest&layout=compact)](https://github.com/BarbaraLest/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarbaraLest&show_icons=true&theme=jolly&include_all_commits&count_private) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraLest&layout=compact)](https://github.com/BarbaraLest/github-readme-stats)
