@@ -6,7 +6,7 @@ Aaaaaah, one more thing about my repositories: sometimes I write the readmes in 
 
 Skills: FLUTTER / REACT NATIVE / UX / UI / JS / REACT
 
-- 🔭 I’m currently working on SWA Sistemas. 
+- 🔭 I’m currently working on FMX. 
 - 🌱 I’m currently learning Flutter 
 - 💬 Ask me about anything 
 
