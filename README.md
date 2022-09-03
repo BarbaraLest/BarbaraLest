@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Barbara Rodrigues
 #### Welcome to my github profile <3
-About me? Trying to be a mobile developer and studying computer science at the Federal Technological University of Paraná, I currently work as mobile development at SWA Sistemas.
+About me? Trying to be a mobile developer and studying computer science at the Federal Technological University of Paraná.
 I have interests in the areas of mobile development, UX/UI, front-end among other things and most of my repositories are about studies in these areas.
 Aaaaaah, one more thing about my repositories: sometimes I write the readmes in English, sometimes in Portuguese. Don't judge me and é nois!
 
